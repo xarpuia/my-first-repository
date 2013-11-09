@@ -10,7 +10,11 @@ test by tzwm
 2013-11-9 21:42
 test  by Fanfan
 
+<<<<<<< HEAD
 test by 夏雅楠
 
 again test by Fanfan
+=======
+
+>>>>>>> parent of e91fe0c... test by xia
 
